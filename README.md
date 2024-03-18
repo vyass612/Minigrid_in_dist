@@ -1,4 +1,6 @@
-# Running this code (ran on a Mac)
+# Mitigating Deep Reinforcement Learning Backdoors in the Neural Activation Space
+
+## Running this code (ran on a Mac)
 
 This guide will walk you through setting up and using the minigrid_farama_2 Conda environment on your Mac. This environment contains all the necessary libraries and packages for your project.
 
