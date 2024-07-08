@@ -1,4 +1,4 @@
-# Mitigating Deep Reinforcement Learning Backdoors in the Neural Activation Space
+# Mitigating Deep Reinforcement Learning Backdoors in the Neural Activation Space (S&PW 2024)
 
 ## Running this code (ran on a Mac)
 
